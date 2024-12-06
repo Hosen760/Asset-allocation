@@ -1,0 +1,153 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="i5oZ7gLEBnkQz12tKtWO">
+    <mxGraphModel dx="1379" dy="4107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6ptlrzb5wS-UMq2g57GX-247" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6ptlrzb5wS-UMq2g57GX-223" target="6ptlrzb5wS-UMq2g57GX-246">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6ptlrzb5wS-UMq2g57GX-223" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;资产配置的作用&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="410" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6ptlrzb5wS-UMq2g57GX-245" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6ptlrzb5wS-UMq2g57GX-244" target="6ptlrzb5wS-UMq2g57GX-224">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="160" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6ptlrzb5wS-UMq2g57GX-224" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;经济体系的构建&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="200" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6ptlrzb5wS-UMq2g57GX-227" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;明确宏观经济形势&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6ptlrzb5wS-UMq2g57GX-224" target="6ptlrzb5wS-UMq2g57GX-223">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1210" y="460" as="sourcePoint" />
+            <mxPoint x="1260" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6ptlrzb5wS-UMq2g57GX-244" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;宏观指标&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6ptlrzb5wS-UMq2g57GX-250" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6ptlrzb5wS-UMq2g57GX-246" target="6ptlrzb5wS-UMq2g57GX-249">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6ptlrzb5wS-UMq2g57GX-266" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6ptlrzb5wS-UMq2g57GX-246" target="6ptlrzb5wS-UMq2g57GX-265">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6ptlrzb5wS-UMq2g57GX-246" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;明确投资目标和风险约束&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="405" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6ptlrzb5wS-UMq2g57GX-252" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6ptlrzb5wS-UMq2g57GX-249" target="6ptlrzb5wS-UMq2g57GX-251">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6ptlrzb5wS-UMq2g57GX-249" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;选定资产投资范围&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="405" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6ptlrzb5wS-UMq2g57GX-254" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6ptlrzb5wS-UMq2g57GX-251" target="6ptlrzb5wS-UMq2g57GX-253">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6ptlrzb5wS-UMq2g57GX-251" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;得到选定资产的风险和收益特征&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="604.38" width="280" height="95.62" as="geometry" />
+        </mxCell>
+        <mxCell id="6ptlrzb5wS-UMq2g57GX-253" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;得出初始投资比例&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="600" width="245" height="103.75" as="geometry" />
+        </mxCell>
+        <mxCell id="6ptlrzb5wS-UMq2g57GX-255" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;执行再平衡&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="600" width="250" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="6ptlrzb5wS-UMq2g57GX-256" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6ptlrzb5wS-UMq2g57GX-253" target="6ptlrzb5wS-UMq2g57GX-255">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="800" as="sourcePoint" />
+            <mxPoint x="740" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6ptlrzb5wS-UMq2g57GX-263" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;通胀率、&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;失业率、&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;利率、&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;政府赤字、&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;货币供应量、&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;国际贸易收支、汇率&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="-30" width="350" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="6ptlrzb5wS-UMq2g57GX-265" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;收益、风险目标和时间跨度等&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="260" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6ptlrzb5wS-UMq2g57GX-269" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6ptlrzb5wS-UMq2g57GX-271">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="327.5" as="sourcePoint" />
+            <mxPoint x="510" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6ptlrzb5wS-UMq2g57GX-270" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6ptlrzb5wS-UMq2g57GX-244" target="6ptlrzb5wS-UMq2g57GX-263">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="350" as="sourcePoint" />
+            <mxPoint x="590" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6ptlrzb5wS-UMq2g57GX-271" value="&lt;br&gt;&lt;font style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 18px;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none;&quot;&gt;IS-&lt;/font&gt;&lt;font style=&quot;forced-color-adjust: none;&quot;&gt;LM-BP&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 18px;&quot;&gt;、AD-AS、蒙代尔-弗莱明等常规模型&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="20" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6ptlrzb5wS-UMq2g57GX-272" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;美林时钟、货币信用周期等周期框架&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="150" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6ptlrzb5wS-UMq2g57GX-273" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;DSGE和DFM等动态模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6ptlrzb5wS-UMq2g57GX-276" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6ptlrzb5wS-UMq2g57GX-272">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="270" as="sourcePoint" />
+            <mxPoint x="510" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6ptlrzb5wS-UMq2g57GX-277" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6ptlrzb5wS-UMq2g57GX-273">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="410" as="sourcePoint" />
+            <mxPoint x="510" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6ptlrzb5wS-UMq2g57GX-279" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;例如，复苏阶段配置股票，过热阶段配置商品&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="405" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="6ptlrzb5wS-UMq2g57GX-281" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6ptlrzb5wS-UMq2g57GX-223" target="6ptlrzb5wS-UMq2g57GX-279">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="600" as="sourcePoint" />
+            <mxPoint x="330" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6ptlrzb5wS-UMq2g57GX-282" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;明确大类资产是什么，仔细评估资产和宏观经济的联动性和自身的周期性&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="210" width="340" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="6ptlrzb5wS-UMq2g57GX-283" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="6ptlrzb5wS-UMq2g57GX-249">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1210" y="200" as="sourcePoint" />
+            <mxPoint x="1510" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6ptlrzb5wS-UMq2g57GX-284" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6ptlrzb5wS-UMq2g57GX-251" target="6ptlrzb5wS-UMq2g57GX-285">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1560" y="770" as="sourcePoint" />
+            <mxPoint x="1520" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6ptlrzb5wS-UMq2g57GX-285" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;资产配置、风险配置、因子配置&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="780" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6ptlrzb5wS-UMq2g57GX-287" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6ptlrzb5wS-UMq2g57GX-285" target="6ptlrzb5wS-UMq2g57GX-288">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1470" y="970" as="sourcePoint" />
+            <mxPoint x="1510" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6ptlrzb5wS-UMq2g57GX-288" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;协方差矩阵估计&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1405" y="920" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6ptlrzb5wS-UMq2g57GX-289" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="6ptlrzb5wS-UMq2g57GX-290">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1610" y="824.33" as="sourcePoint" />
+            <mxPoint x="1670" y="824.33" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6ptlrzb5wS-UMq2g57GX-290" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;因子估计方法&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="780" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6ptlrzb5wS-UMq2g57GX-291" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;创新的思路：1. 强化学习算法常用于和环境动态交互的场景，在得到初始投资比例和再平衡阶段是否有用处？&lt;br&gt;2. 大模型作为新技术，其在大规模处理文本的场景有很大优势，仿照金融舆情分析的思路，大模型能否诞生一个类似的舆情因子？&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="810" width="610" height="230" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
