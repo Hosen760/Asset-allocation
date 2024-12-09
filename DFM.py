@@ -1,3 +1,19 @@
+# ## 动态因子模型实现
+
+# ### 原作者
+# - 姓名: Gene Kindberg-Hanlon
+# - 联系方式: genekindberg @ googlemail .com
+# - 原github仓库地址：https://github.com/genekindberg/DFM-Nowcaster.git
+
+# ### 修改内容
+# - 本仓库基于 Gene Kindberg-Hanlon 的原始实现进行了以下修改：
+# - 修正了原代码在吉布斯采样和BVAR等过程中使用了未来信息的错误
+# - 添加了一些中文注释
+
+# ### 许可协议
+# - 本代码的共享和使用需遵循原始代码的许可协议（如适用）。
+
+
 
 ##################################################################
 # 导入包
