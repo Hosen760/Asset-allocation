@@ -1,0 +1,86 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="gTS-D8zmYlelYSEAx4xN">
+    <mxGraphModel dx="1036" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="X61x39SiiR1uz-KiXx-k-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;央行&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="140" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X61x39SiiR1uz-KiXx-k-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X61x39SiiR1uz-KiXx-k-1" target="X61x39SiiR1uz-KiXx-k-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="390" as="sourcePoint" />
+            <mxPoint x="290" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X61x39SiiR1uz-KiXx-k-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;每天开展逆回购操作&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="X61x39SiiR1uz-KiXx-k-2">
+          <mxGeometry x="0.2699" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X61x39SiiR1uz-KiXx-k-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X61x39SiiR1uz-KiXx-k-1" target="X61x39SiiR1uz-KiXx-k-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="600" as="sourcePoint" />
+            <mxPoint x="300" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X61x39SiiR1uz-KiXx-k-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;每月开展MLF操作&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="X61x39SiiR1uz-KiXx-k-4">
+          <mxGeometry x="-0.1662" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X61x39SiiR1uz-KiXx-k-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X61x39SiiR1uz-KiXx-k-6" target="X61x39SiiR1uz-KiXx-k-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X61x39SiiR1uz-KiXx-k-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;7天逆回购利率&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X61x39SiiR1uz-KiXx-k-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X61x39SiiR1uz-KiXx-k-7" target="X61x39SiiR1uz-KiXx-k-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X61x39SiiR1uz-KiXx-k-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;DR007&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X61x39SiiR1uz-KiXx-k-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;货币市场利率&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X61x39SiiR1uz-KiXx-k-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X61x39SiiR1uz-KiXx-k-11" target="X61x39SiiR1uz-KiXx-k-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X61x39SiiR1uz-KiXx-k-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;MLF利率&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X61x39SiiR1uz-KiXx-k-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X61x39SiiR1uz-KiXx-k-12" target="X61x39SiiR1uz-KiXx-k-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X61x39SiiR1uz-KiXx-k-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;LPR&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X61x39SiiR1uz-KiXx-k-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;贷款市场利率&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X61x39SiiR1uz-KiXx-k-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.433;exitY=1.037;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400.98" y="560" as="sourcePoint" />
+            <mxPoint x="399.02" y="637.78" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X61x39SiiR1uz-KiXx-k-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X61x39SiiR1uz-KiXx-k-17" target="X61x39SiiR1uz-KiXx-k-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X61x39SiiR1uz-KiXx-k-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X61x39SiiR1uz-KiXx-k-17" target="X61x39SiiR1uz-KiXx-k-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X61x39SiiR1uz-KiXx-k-17" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;国债收益率&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X61x39SiiR1uz-KiXx-k-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;债券市场利率&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X61x39SiiR1uz-KiXx-k-20" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;存款市场利率&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
