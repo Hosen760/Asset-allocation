@@ -669,10 +669,19 @@ class DynamicFactorModel():
                 , self.Qs, s0, alpha0, L_var_prior, ints, burn, save, self.normGDP)
 
     def Nowcast(self, start, Horz, burn, save):
-        XY, *other_vars = initializevals(2021, self.GDP, self.Monthly, self.lags, self.lagsH, self.K, self.Qs)
         Dates = self.Dates  # 时间序列日期（以季度为单位）
         Findex = int(np.where(Dates == start)[0])  # 找到起始时间点的索引
         Quartersback = (Dates.shape[0] - Findex)  # 从起始点到数据末尾的季度数
+
+        XY, *other_vars = initializevals(Dates.iloc[-1], self.GDP, self.Monthly, self.lags, self.lagsH, self.K, self.Qs)
+
+        # 6. 初始化用于存储预测结果的数组
+        Fcast_current = np.empty((Quartersback + 1, 3))  # 当前季度的预测 
+        Fcast_next = np.empty((Quartersback + 1, 3))  # 下一季度的预测 
+        Outturn_current = np.empty((Quartersback + 1, 3))  # 当前季度的实际值 
+        Outturn_next = np.empty((Quartersback + 1, 3))  # 下一季度的实际值 
+        # DateFcast = np.arange(start, start + Quartersback / 4, 0.25)  # 预测日期序列
+       
         # 7. 循环预测每个时间点的结果
         for ii in range(Quartersback + 1):
             if self.time == start:
@@ -722,13 +731,6 @@ class DynamicFactorModel():
             Quartersback = (Dates.shape[0] - Findex)  # 从起始点到数据末尾的季度数
             self.Quartersback = Quartersback  # 保存回溯的季度数
 
-            # 6. 初始化用于存储预测结果的数组
-            Fcast_current = np.empty((Quartersback + 1, 3))  # 当前季度的预测 
-            Fcast_next = np.empty((Quartersback + 1, 3))  # 下一季度的预测 
-            Outturn_current = np.empty((Quartersback + 1, 3))  # 当前季度的实际值 
-            Outturn_next = np.empty((Quartersback + 1, 3))  # 下一季度的实际值 
-            # DateFcast = np.arange(start, start + Quartersback / 4, 0.25)  # 预测日期序列    
-
             # 7.1 提取当前的初始状态
             PriorS = Sfor[-1, :].reshape(1, -1)  # 当前时刻的状态
 
@@ -753,10 +755,11 @@ class DynamicFactorModel():
                 Feed[2, 0] = np.nan  # 确保 GDP 数据被隐藏
 
                 # 使用卡尔曼滤波器进行预测
-                print(PriorS)
                 S_f, P_f = _Kfilter(Feed, Ffor, Hfor, Qfor, Rfor, PriorS)  # 卡尔曼滤波器
 
                 Fcast_current[ii, jj] = np.mean(S_f[0:3, 0])  # 当前季度的预测结果
+
+                print(Fcast_current[ii, jj])
 
                 # 准备下一季度的预测输入
                 FeedNext = np.r_[Feed, np.nan * np.empty((3, Feed.shape[1]))]  # 扩展数据以预测下一季度
